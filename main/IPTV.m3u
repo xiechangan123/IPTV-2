@@ -55,8 +55,14 @@ http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=WYPW6GSH4H
 http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",TVP 4k
 http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
+#EXTINF:-1 group-title="4K频道",TRAVELXP TV 4K
+http://45.153.35.200:8001/play/a0b8
 #EXTINF:-1 group-title="4K频道",NASA 4k 60P
 http://45.153.35.200:8001/play/a0b7
+#EXTINF:-1 group-title="4K频道",MYZEN TV 4K
+http://45.153.35.200:8001/play/a0ba
+#EXTINF:-1 group-title="4K频道",ULTRA NATURE TV 4K
+http://185.236.229.31:9981/play/a01d
 #EXTINF:-1 group-title="4K频道",Sky Sport UHD
 http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",Fashion4K
