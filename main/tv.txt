@@ -16,6 +16,7 @@ Bein Sport 4K,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&st
 Bein Sport 4K备,http://k13tvonline.eu:8000/play/live.php?mac=00:1A:79:48:3C:F0&stream=189095&extension=ts&play_token=t1kkZSahBq
 RMC Sport 4K UHD,http://nbr1.co:8000/play/live.php?mac=00:1A:79:3D:6E:D6&stream=78679&extension=ts&play_token=9Z33UVlX3f
 Canal+ 4K,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=4075&extension=ts&play_token=f663dY0IBp
+Insight UHD,http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=d0cef6d2e668ade6842222
 Now Sports UHD HK 616,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
 Now Sports UHD HK 617,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=117957&extension=ts&play_token=AbdVvv7KCM
 BT Sport Ultimate 4K,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042157.ts
