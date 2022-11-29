@@ -40,6 +40,7 @@ TVP 4k备,http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=cb776083b1e1b6f9bb22
 TRAVELXP TV 4K,http://45.153.35.200:8001/play/a0b8
 NASA 4k 60P,http://45.153.35.200:8001/play/a0b7
 MYZEN TV 4K,http://45.153.35.200:8001/play/a0ba
+VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
 ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
 Sky Sport UHD,http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
 Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
