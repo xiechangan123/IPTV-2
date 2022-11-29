@@ -81,6 +81,8 @@ http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=cb776083b1e1b6f9bb2222
 http://45.153.35.200:8001/play/a0b8
 #EXTINF:-1 group-title="4K频道",NASA 4k 60P
 http://45.153.35.200:8001/play/a0b7
+#EXTINF:-1 group-title="4K频道",VTC13 4K
+http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
 #EXTINF:-1 group-title="4K频道",MYZEN TV 4K
 http://45.153.35.200:8001/play/a0ba
 #EXTINF:-1 group-title="4K频道",ULTRA NATURE TV 4K
