@@ -73,6 +73,8 @@ http://tribaliptv.com:8080/Gustavo/123456/12401
 http://tribaliptv.com:8080/Gustavo/123456/5195
 #EXTINF:-1 group-title="4K频道",Eleven Sports 1 4K
 http://cdnx1.plusx.tv:8880/325es4k/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#EXTINF:-1 group-title="4K频道",Eleven Sports 1 4K备
+http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",Sport5 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 #EXTINF:-1 group-title="4K频道",Sport5 4k备
