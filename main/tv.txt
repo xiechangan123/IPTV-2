@@ -35,6 +35,7 @@ DAZN F1 UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/4930
 MOVISTAR LIGA DE CAMPEONES UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/12401
 ODISEA UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/5195
 Eleven Sports 1 4K,http://cdnx1.plusx.tv:8880/325es4k/mono.m3u8?token=cb776083b1e1b6f9bb2222
+Eleven Sports 1 4K备,http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
 Sport5 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 Sport5 4k备,http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
 TRT 4k,http://dns15733.com:8000/nvixX4zD/1CGlR82j/89002
