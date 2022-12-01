@@ -51,8 +51,10 @@ http://de1cdn.plusx.tv:8880/InsightUHD11/mono.m3u8?token=a6a4830189b90926652222
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
 #EXTINF:-1 group-title="4K频道",Now Sports UHD HK
 http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
-#EXTINF:-1 group-title="4K频道",Now Sports UHD HK备
+#EXTINF:-1 group-title="4K频道",Now Sports UHD HK-1
 http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#EXTINF:-1 group-title="4K频道",Now Sports UHD HK-2
+http://de1cdn.plusx.tv:8880/nowsport/mono.m3u8?token=a6a4830189b90926652222
 #EXTINF:-1 group-title="4K频道",SuperSport 4k World CUP
 http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",Sky Sport UHD
