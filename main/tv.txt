@@ -21,13 +21,13 @@ Canal+ 4K,http://cdnx1.plusx.tv:8880/Filmax/mono.m3u8?token=cb776083b1e1b6f9bb22
 Museum 4k,http://cdnx1.plusx.tv:8880/Museum/mono.m3u8?token=cb776083b1e1b6f9bb2222
 Home 4k,http://cdnx1.plusx.tv:8880/316/mono.m3u8?token=cb776083b1e1b6f9bb2222
 Heritage 4k,http://cdnx1.plusx.tv:8880/Heritage/mono.m3u8?token=cb776083b1e1b6f9bb2222
-Insight UHD,http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=d0cef6d2e668ade6842222
+Insight UHD,http://de1cdn.plusx.tv:8880/InsightUHD11/mono.m3u8?token=a6a4830189b90926652222
 V Sports UHD,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
 Now Sports UHD HK,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
-Now Sports UHD HK备,http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
+Now Sports UHD HK-1,http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
+Now Sports UHD HK-2,http://de1cdn.plusx.tv:8880/nowsport/mono.m3u8?token=a6a4830189b90926652222
 SuperSport 4k World CUP,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 Sky Sport UHD,http://cdn.spmr.tv:8080/3sin1s/video.m3u8?token=WYPW6GSH4H
-RU Матч 4k,http://cdn.spmr.tv:8080/w60cdr/video.m3u8?token=WYPW6GSH4H
 TF1 4K,http://193.107.202.221:81/live/Kirk123/Kirk123/1552953.ts
 BT Sport Ultimate 4K,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042157.ts
 Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
