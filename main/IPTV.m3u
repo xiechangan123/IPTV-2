@@ -59,8 +59,6 @@ http://de1cdn.plusx.tv:8880/nowsport/mono.m3u8?token=a6a4830189b90926652222
 http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",Sky Sport UHD
 http://cdn.spmr.tv:8080/3sin1s/video.m3u8?token=WYPW6GSH4H
-#EXTINF:-1 group-title="4K频道",RU Матч 4k
-http://cdn.spmr.tv:8080/w60cdr/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",TF1 4K
 http://193.107.202.221:81/live/Kirk123/Kirk123/1552953.ts
 #EXTINF:-1 group-title="4K频道",BT Sport Ultimate 4K
