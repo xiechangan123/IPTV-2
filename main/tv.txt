@@ -73,6 +73,20 @@ CCTV5-高清(3),http://111.29.9.37:6610/000000001000/1000000005000025222/index.m
 南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 南国都市(备),https://justsometime.gztv.com/sec/shenghuos.m3u8
 4K测试源,http://159.75.85.63:5680/d/ad/playad.m3u8
+港台電視 32,http://183.17.226.11:9981/stream/channelid/1432153651?ticket=4e81b07202548400d1766ba434f1c8fe19d6596c&profile=pass
+中央電視台綜合頻道（CCTV-1綜合),http://183.17.226.11:9981/stream/channelid/1015407276?ticket=0de9e18e5b4e95bbe0cdf46eb059e4bc36bd8998&profile=pass
+香港國際財經台,http://183.17.226.11:9981/stream/channelid/646418415?ticket=5b809c06f3b75381252c65d08aa64e8ebcb83ec8&profile=pass
+HOY TV,http://183.17.226.11:9981/stream/channelid/880267839?ticket=138caa68d01dbfbfeb5f3781e2869edb815ed043&profile=pass
+HOY 資訊台,http://183.17.226.11:9981/stream/channelid/175084467?ticket=469f118626dbb3e6587ca47b7f57d407ff7488b2&profile=pass
+翡翠台,http://183.17.226.11:9981/stream/channelid/1572004532?ticket=618e8c84e415d20fe9edecf8010087a66acbf171&profile=pass
+J2台,http://183.17.226.11:9981/stream/channelid/1710831993?ticket=703c712ae19f047c7307db978113d282b92c8fac&profile=pass
+無綫新聞台,http://183.17.226.11:9981/stream/channelid/1385862424?ticket=54ba5096580c99db734ebd63832a859bb0da130b&profile=pass
+明珠台,http://183.17.226.11:9981/stream/channelid/1898891175?ticket=3ac1fed5c738638e3287ae328ebc5f8728f19bbd&profile=pass
+無綫財經 · 資訊台,http://183.17.226.11:9981/stream/channelid/918908964?ticket=efc250a19fcc008cfc70ec741df493d9ca7e10f7&profile=pass
+ViuTVsix,http://183.17.226.11:9981/stream/channelid/1204223602?ticket=327f2cef8685fec8de6c47f3104aa37e8e591f04&profile=pass
+ViuTV,http://183.17.226.11:9981/stream/channelid/299333848?ticket=0c29161177b52f0d0686fac5cb66bd157c143cff&profile=pass
+广东综艺4K-25M,http://183.17.226.11:9981/stream/channelid/1085394412?ticket=d52e00c68dfc212f0e4539ccac29c3c8e393f2ad&profile=pass
+广东综艺4K-46M,http://183.17.226.11:9981/stream/channelid/308148190?ticket=9cde92e4439a089a61fc816cbe68337d307d7948&profile=pass
 江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 CCTV4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
