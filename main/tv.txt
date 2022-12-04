@@ -87,6 +87,7 @@ ViuTVsix,http://183.17.226.11:9981/stream/channelid/1204223602?ticket=327f2cef86
 ViuTV,http://183.17.226.11:9981/stream/channelid/299333848?ticket=0c29161177b52f0d0686fac5cb66bd157c143cff&profile=pass
 广东综艺4K-25M,http://183.17.226.11:9981/stream/channelid/1085394412?ticket=d52e00c68dfc212f0e4539ccac29c3c8e393f2ad&profile=pass
 广东综艺4K-46M,http://183.17.226.11:9981/stream/channelid/308148190?ticket=9cde92e4439a089a61fc816cbe68337d307d7948&profile=pass
+CCTV-8K-组播AVS3源,http://182.138.154.241:8000/udp/239.93.42.61:5140
 江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 CCTV4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
