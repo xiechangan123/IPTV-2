@@ -177,6 +177,8 @@ http://183.17.226.11:9981/stream/channelid/299333848?ticket=0c29161177b52f0d0686
 http://183.17.226.11:9981/stream/channelid/1085394412?ticket=d52e00c68dfc212f0e4539ccac29c3c8e393f2ad&profile=pass
 #EXTINF:-1 group-title="深圳地波",广东综艺4K-46M
 http://183.17.226.11:9981/stream/channelid/308148190?ticket=9cde92e4439a089a61fc816cbe68337d307d7948&profile=pass
+#EXTINF:-1 tvg-name="CCTV-8K-组播AVS3源" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8k.jpg" group-title="8K频道",CCTV-8K-组播AVS3源
+http://182.138.154.241:8000/udp/239.93.42.61:5140
 #EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" group-title="8K频道",江苏8K测试
 http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV4K 16M2160
