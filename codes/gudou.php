@@ -1,6 +1,6 @@
 <?php
 
-//需要在ROOT的安卓手机安装抓包工具（抓包精灵/小黄鸟），并安装新版谷豆，然后登录自己的手机号码，开启抓包后筛选关键词aut002，然后puser是你的手机号，你需要记录ptoken和$pserialnumber，本源码只适合安卓版本，ios需要自己推几个参数！！
+//需要在ROOT的安卓手机安装抓包工具（抓包精灵/小黄鸟），并安装新版谷豆（腾讯应用宝下载），然后登录自己的手机号码，开启抓包后筛选关键词aut002，然后puser是你的手机号，你需要记录ptoken和$pserialnumber，本源码只适合安卓版本，ios需要自己推几个参数！！
 
 error_reporting(0);
 header('Content-Type:text/html;charset=UTF-8');
