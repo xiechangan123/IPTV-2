@@ -4,7 +4,7 @@
     for($i=0;$i<3;$i++)
     {
         $content .= "#EXTINF:4.000,\n";
-        $content .= "http://101.28.249.27/livews-tp4k.cctv.cn/live/4K0219.stream/1-".$seq.".ts\n";
+        $content .= "http://111.43.179.208/livews-tp4k.cctv.cn/live/4K0219.stream/1-".$seq.".ts\n";
         $seq = $seq + 1;
     }
     header("Content-Disposition: attachment; filename=playlist.m3u8");
