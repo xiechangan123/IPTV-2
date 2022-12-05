@@ -1,6 +1,6 @@
 <?php
 
-//需要在ROOT的安卓手机安装抓包工具（抓包精灵/小黄鸟），并安装新版谷豆（腾讯应用宝下载），然后登录自己的手机号码，开启抓包后筛选关键词aut002，然后puser是你的手机号，你需要记录ptoken和$pserialnumber，本源码只适合安卓版本，ios需要自己推几个参数！！
+//需要在ROOT的安卓手机安装抓包工具（抓包精灵/小黄鸟），并安装新版谷豆（腾讯应用宝下载），然后登录自己的手机号码，开启抓包后筛选关键词aut002，然后puser是你的手机号，你需要记录ptoken和pserialnumber，注意一下cid，这个数值很重要，如果cid变了你也要变，本源码只适合安卓版本，ios需要自己推几个参数！！
 
 error_reporting(0);
 header('Content-Type:text/html;charset=UTF-8');
@@ -77,7 +77,7 @@ if (!$playurl) {
     $str = 'sumasalt-app-portalpVW4U*FlS' . $timestamp . $nonce . $user;
     $hmac = substr(sha1($str), 0, 10);
     $onlineip = $_SERVER['REMOTE_ADDR'];
-    $info = 'ptype=1&plocation=001&puser=' . $user . '&ptoken=' . $ptoken . '&pversion=030107&pserverAddress=portal.gcable.cn&pserialNumber=' . $pserialnumber . '&pkv=1&ptn=Y29tLnN1bWF2aXNpb24uc2FucGluZy5ndWRvdQ&DRMtoken=&epgID=&authType=0&secondAuthid=&t=' . $ptoken . '&pid=&cid=364&u=' . $user . '&p=1&l=001&d=' . $pserialnumber . '&n=' . $id . '&v=2&ot=0&pappName=GoodTV&hmac=' . $hmac . '&timestamp=' . $timestamp . '&nonce=' . $nonce;
+    $info = 'ptype=1&plocation=001&puser=' . $user . '&ptoken=' . $ptoken . '&pversion=030107&pserverAddress=portal.gcable.cn&pserialNumber=' . $pserialnumber . '&pkv=1&ptn=Y29tLnN1bWF2aXNpb24uc2FucGluZy5ndWRvdQ&DRMtoken=&epgID=&authType=0&secondAuthid=&t=' . $ptoken . '&pid=&cid=这里是cid&u=' . $user . '&p=1&l=001&d=' . $pserialnumber . '&n=' . $id . '&v=2&ot=0&pappName=GoodTV&hmac=' . $hmac . '&timestamp=' . $timestamp . '&nonce=' . $nonce;
     $url = 'http://portal.gcable.cn:8080/PortalServer-App/new/aaa_aut_aut002';
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $url);
