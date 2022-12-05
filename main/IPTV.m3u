@@ -53,6 +53,8 @@ http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
 http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
 #EXTINF:-1 group-title="4K频道",SuperSport 4k World CUP
 http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
+#EXTINF:-1 group-title="4K频道",BeIN Sports 4K
+http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
 #EXTINF:-1 group-title="4K频道",Sky Sport UHD
 http://cdn.spmr.tv:8080/3sin1s/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",TF1 4K
