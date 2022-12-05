@@ -72,7 +72,7 @@ if (!$playurl) {
     $user = '你的手机号';
     $ptoken = '你的ptoken';
     $pserialnumber = '你的pserialnumber';
-    $cid = '你的cid值'
+    $cid = '你的cid值';
     $timestamp = time();
     $nonce = rand(1000000000, 9999999999);
     $str = 'sumasalt-app-portalpVW4U*FlS' . $timestamp . $nonce . $user;
