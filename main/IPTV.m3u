@@ -35,32 +35,22 @@ http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
 http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 group-title="4K频道",Astro Super Sport 4K
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-#EXTINF:-1 group-title="4K频道",Astro Super Sport 4K-1
+#EXTINF:-1 group-title="4K频道",Astro Super Sport 4K备
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
-#EXTINF:-1 group-title="4K频道",Astro Super Sport 4K-2
-http://193.107.202.221:81/live/Kirk123/Kirk123/1552951.ts
-#EXTINF:-1  group-title="4K频道",Bein Sport 4K
-http://k13tvonline.eu:8000/play/live.php?mac=00:1A:79:48:3C:F0&stream=189095&extension=ts&play_token=t1kkZSahBq
 #EXTINF:-1  group-title="4K频道",RMC Sport 4K
 http://nbr1.co:8000/play/live.php?mac=00:1A:79:3D:6E:D6&stream=78679&extension=ts&play_token=9Z33UVlX3f
-#EXTINF:-1  group-title="4K频道",Canal+ 4K
-http://cdnx1.plusx.tv:8880/Filmax/mono.m3u8?token=cb776083b1e1b6f9bb2222
 #EXTINF:-1 group-title="4K频道",Museum 4k
 http://cdnx1.plusx.tv:8880/Museum/mono.m3u8?token=cb776083b1e1b6f9bb2222
 #EXTINF:-1 group-title="4K频道",Home 4k
 http://cdnx1.plusx.tv:8880/316/mono.m3u8?token=cb776083b1e1b6f9bb2222
 #EXTINF:-1 group-title="4K频道",Heritage 4k
 http://cdnx1.plusx.tv:8880/Heritage/mono.m3u8?token=cb776083b1e1b6f9bb2222
-#EXTINF:-1 group-title="4K频道",Insight UHD
-http://de1cdn.plusx.tv:8880/InsightUHD11/mono.m3u8?token=a6a4830189b90926652222
 #EXTINF:-1 group-title="4K频道",V Sports UHD
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
 #EXTINF:-1 group-title="4K频道",Now Sports UHD HK
 http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
-#EXTINF:-1 group-title="4K频道",Now Sports UHD HK-1
+#EXTINF:-1 group-title="4K频道",Now Sports UHD HK备
 http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
-#EXTINF:-1 group-title="4K频道",Now Sports UHD HK-2
-http://de1cdn.plusx.tv:8880/nowsport/mono.m3u8?token=a6a4830189b90926652222
 #EXTINF:-1 group-title="4K频道",SuperSport 4k World CUP
 http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",Sky Sport UHD
@@ -86,12 +76,10 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&e
 #EXTINF:-1 group-title="4K频道",Sport5 4k备
 http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",TRT 4k
-http://dns15733.com:8000/nvixX4zD/1CGlR82j/89002
-#EXTINF:-1 group-title="4K频道",TRT 4k-1
 http://cdnx1.plusx.tv:8880/TRTInternational/mono.m3u8?token=cb776083b1e1b6f9bb2222
-#EXTINF:-1 group-title="4K频道",TRT 4k-2
+#EXTINF:-1 group-title="4K频道",TRT 4k-1
 http://193.107.202.221:81/live/Kirk123/Kirk123/1552952.ts
-#EXTINF:-1 group-title="4K频道",TRT 4k-3
+#EXTINF:-1 group-title="4K频道",TRT 4k-2
 http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",DIGI 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
@@ -109,14 +97,8 @@ http://barebudget.h1ott.com:80/play/live.php?mac=00:1a:79:27:1f:ef&stream=105723
 http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=cb776083b1e1b6f9bb2222
 #EXTINF:-1 group-title="4K频道",TVP 4k-2
 http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
-#EXTINF:-1 group-title="4K频道",TRAVELXP TV 4K
-http://45.153.35.200:8001/play/a0b8
-#EXTINF:-1 group-title="4K频道",NASA 4k 60P
-http://45.153.35.200:8001/play/a0b7
 #EXTINF:-1 group-title="4K频道",VTC13 4K
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
-#EXTINF:-1 group-title="4K频道",MYZEN TV 4K
-http://45.153.35.200:8001/play/a0ba
 #EXTINF:-1 group-title="4K频道",ULTRA NATURE TV 4K
 http://185.236.229.31:9981/play/a01d
 #EXTINF:-1 group-title="4K频道",Fashion4K
