@@ -72,12 +72,13 @@ if (!$playurl) {
     $user = '你的手机号';
     $ptoken = '你的ptoken';
     $pserialnumber = '你的pserialnumber';
+    $cid = '你的cid值'
     $timestamp = time();
     $nonce = rand(1000000000, 9999999999);
     $str = 'sumasalt-app-portalpVW4U*FlS' . $timestamp . $nonce . $user;
     $hmac = substr(sha1($str), 0, 10);
     $onlineip = $_SERVER['REMOTE_ADDR'];
-    $info = 'ptype=1&plocation=001&puser=' . $user . '&ptoken=' . $ptoken . '&pversion=030107&pserverAddress=portal.gcable.cn&pserialNumber=' . $pserialnumber . '&pkv=1&ptn=Y29tLnN1bWF2aXNpb24uc2FucGluZy5ndWRvdQ&DRMtoken=&epgID=&authType=0&secondAuthid=&t=' . $ptoken . '&pid=&cid=这里是cid&u=' . $user . '&p=1&l=001&d=' . $pserialnumber . '&n=' . $id . '&v=2&ot=0&pappName=GoodTV&hmac=' . $hmac . '&timestamp=' . $timestamp . '&nonce=' . $nonce;
+    $info = 'ptype=1&plocation=001&puser=' . $user . '&ptoken=' . $ptoken . '&pversion=030107&pserverAddress=portal.gcable.cn&pserialNumber=' . $pserialnumber . '&pkv=1&ptn=Y29tLnN1bWF2aXNpb24uc2FucGluZy5ndWRvdQ&DRMtoken=&epgID=&authType=0&secondAuthid=&t=' . $ptoken . '&pid=&cid=' . $cid . '&u=' . $user . '&p=1&l=001&d=' . $pserialnumber . '&n=' . $id . '&v=2&ot=0&pappName=GoodTV&hmac=' . $hmac . '&timestamp=' . $timestamp . '&nonce=' . $nonce;
     $url = 'http://portal.gcable.cn:8080/PortalServer-App/new/aaa_aut_aut002';
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $url);
