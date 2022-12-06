@@ -40,7 +40,7 @@ Eleven Sports 1 4K备,http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
 Sport5 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 Sport5 4k备,http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
 TRT 4k,http://cdnx1.plusx.tv:8880/TRTInternational/mono.m3u8?token=cb776083b1e1b6f9bb2222
-TRT 4k-1,http://193.107.202.221:81/live/Kirk123/Kirk123/1552952.ts
+TRT 4k-1,http://toolsworldiptv.org:8080/live/geriHiOeu4sekxxxxx211/geriHiOeu4/365.ts
 TRT 4k-2,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
 DIGI 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
 DIGI 4k备,http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=WYPW6GSH4H
