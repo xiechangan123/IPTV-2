@@ -44,7 +44,7 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&
 #EXTINF:-1 group-title="4K频道",Astro Super Sport 4K-2
 http://nordicstream.xyz:2095/q8r8D5gHvh/ZmovhgMYOa/348094
 #EXTINF:-1  group-title="4K频道",Quadro 4K
-814	http://91.207.180.142/Quadro4K/index.m3u8
+http://91.207.180.142/Quadro4K/index.m3u8
 #EXTINF:-1 group-title="4K频道",Museum 4k
 http://cdnx1.plusx.tv:8880/Museum/mono.m3u8?token=cb776083b1e1b6f9bb2222
 #EXTINF:-1 group-title="4K频道",Home 4k
