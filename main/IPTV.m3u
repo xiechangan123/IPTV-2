@@ -39,8 +39,10 @@ http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
 http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 group-title="4K频道",Astro Super Sport 4K
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-#EXTINF:-1 group-title="4K频道",Astro Super Sport 4K备
+#EXTINF:-1 group-title="4K频道",Astro Super Sport 4K-1
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+#EXTINF:-1 group-title="4K频道",Astro Super Sport 4K-2
+http://nordicstream.xyz:2095/q8r8D5gHvh/ZmovhgMYOa/348094
 #EXTINF:-1  group-title="4K频道",RMC Sport 4K
 http://nbr1.co:8000/play/live.php?mac=00:1A:79:3D:6E:D6&stream=78679&extension=ts&play_token=9Z33UVlX3f
 #EXTINF:-1 group-title="4K频道",Museum 4k
