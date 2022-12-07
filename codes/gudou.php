@@ -74,7 +74,7 @@ if (!$playurl) {
     $pserialnumber = '你的pserialnumber';
     $cid = '你的cid值';
     $timestamp = time();
-    $nonce = rand(1000000000, 9999999999);
+    $nonce = rand(3000000000, 9999999999);
     $str = 'sumasalt-app-portalpVW4U*FlS' . $timestamp . $nonce . $user;
     $hmac = substr(sha1($str), 0, 10);
     $onlineip = $_SERVER['REMOTE_ADDR'];
