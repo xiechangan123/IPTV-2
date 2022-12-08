@@ -133,8 +133,12 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="斗鱼4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="4K频道",斗鱼4K
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="抖音世界杯随机回放",抖音世界杯随机回放
+#EXTINF:-1 tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="世界杯回放",抖音世界杯随机回放
 http://mmmitv.top/test/douyin-x.php?id=rand
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="世界杯回放",咪咕世界杯4K回放-1
+http://111.13.18.208/tptv.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?GuardEncType=2&hwcdnbacksourceflag=223.110.243.171
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="世界杯回放",咪咕世界杯4K回放-2
+http://183.60.255.55/tptv.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?GuardEncType=2&hwcdnbacksourceflag=223.110.236.32
 #EXTINF:-1 tvg-name="4K测试源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/tg.jpg" group-title="4K频道",4K测试源
 http://159.75.85.63:5680/d/ad/playad.m3u8
 #EXTINF:-1 tvg-name="CCTV-8K-组播AVS3源" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8k.jpg" group-title="8K频道",CCTV-8K-组播AVS3源
