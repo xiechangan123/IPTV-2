@@ -141,7 +141,7 @@ http://111.13.18.208/tptv.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?GuardEnc
 http://183.60.255.55/tptv.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?GuardEncType=2&hwcdnbacksourceflag=223.110.236.32
 #EXTINF:-1 tvg-name="4K测试源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/tg.jpg" group-title="4K频道",4K测试源
 http://159.75.85.63:5680/d/ad/playad.m3u8
-#EXTINF:-1 tvg-name="4K河南" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/hn4k.png" group-title="4K频道IPV6转IPV4",4K河南
+#EXTINF:-1 tvg-name="4K河南" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/hn4k.png" group-title="4K推流",4K河南
 http://154.3.37.107:8280/live/0/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV16-4K-50P-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道IPV6转IPV4",CCTV16-4K-50P-HLG源
 http://154.3.37.107:8280/live/1/hls.m3u8
