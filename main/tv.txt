@@ -66,6 +66,12 @@ loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 抖音世界杯随机回放,http://mmmitv.top/test/douyin-x.php?id=rand
+咪咕世界杯4K回放-1,http://111.13.18.208/tptv.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?GuardEncType=2&hwcdnbacksourceflag=223.110.243.171
+咪咕世界杯4K回放-2,http://183.60.255.55/tptv.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?GuardEncType=2&hwcdnbacksourceflag=223.110.236.32
 4K测试源,http://159.75.85.63:5680/d/ad/playad.m3u8
+4K河南,http://154.3.37.107:8280/live/0/hls.m3u8
+CCTV16-4K-50P-HLG源,http://154.3.37.107:8280/live/1/hls.m3u8
+咪咕体育-4K-HLG源,http://154.3.37.107:8280/live/2/hls.m3u8
+芒果娱乐4K,http://154.3.37.107:8280/live/3/hls.m3u8
 CCTV-8K-组播AVS3源,http://182.138.154.241:8000/udp/239.93.42.61:5140
 江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
