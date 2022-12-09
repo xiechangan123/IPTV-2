@@ -1,7 +1,7 @@
 <?php
     $channel = empty($_GET['id']) ? "CCTV-xw_4000" : trim($_GET['id']);
     $array = explode("_", $channel);
-    $stream = "蜀小果可用IP/vod.rxip.sc96655.com/live/8ne5i_sccn/{$array[0]}_hls_pull/8ne5i_sccn,{$array[0]}_hls_pull_{$array[1]}K/";
+    $stream = "http://[2409:8c02:21c:60::2f]/vod.rxip.sc96655.com/live/8ne5i_sccn/{$array[0]}_hls_pull/8ne5i_sccn,{$array[0]}_hls_pull_{$array[1]}K/";
     $timestamp = intval((time()-60)/6);
     $current = "#EXTM3U"."\r\n";
     $current.= "#EXT-X-VERSION:3"."\r\n";
