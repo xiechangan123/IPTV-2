@@ -136,11 +136,11 @@ http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-name="4K河南" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/hn4k.png" group-title="推流测试",4K河南
 http://74.119.193.113:8280/live/hn4k/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV16-4K-50P-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="推流测试",CCTV16-4K-50P-HLG源
-http://74.119.193.113:8280/live/cctv16/hls.m3u8
+http://109.166.38.23:8280/live/cctv16/hls.m3u8
 #EXTINF:-1 tvg-name="咪咕体育-4K-HLG源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="推流测试",咪咕体育-4K-HLG源
-http://74.119.193.113:8280/live/migu4k/hls.m3u8
+http://109.166.38.23:8280/live/migu4k/hls.m3u8
 #EXTINF:-1 tvg-name="芒果娱乐4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="推流测试",芒果娱乐4K
-http://74.119.193.113:8280/live/mgyl4k/hls.m3u8
+http://109.166.38.23:8280/live/mgyl4k/hls.m3u8
 #EXTINF:-1 tvg-name="广东体育HD" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="推流测试",广东体育HD
 rtsp://109.166.38.23/live/GdtyHD
 #EXTINF:-1 tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="世界杯回放",抖音世界杯随机回放
