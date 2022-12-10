@@ -134,13 +134,13 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="斗鱼4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="4K频道",斗鱼4K
 http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-name="4K河南" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/hn4k.png" group-title="4K推流",4K河南
-http://154.3.37.107:8280/live/0/hls.m3u8
+http://74.119.193.113:8280/live/hn4k/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV16-4K-50P-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K推流",CCTV16-4K-50P-HLG源
-http://154.3.37.107:8280/live/1/hls.m3u8
+http://74.119.193.113:8280/live/cctv16/hls.m3u8
 #EXTINF:-1 tvg-name="咪咕体育-4K-HLG源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="4K推流",咪咕体育-4K-HLG源
-http://154.3.37.107:8280/live/2/hls.m3u8
+http://74.119.193.113:8280/live/migu4k/hls.m3u8
 #EXTINF:-1 tvg-name="芒果娱乐4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="4K推流",芒果娱乐4K
-http://154.3.37.107:8280/live/3/hls.m3u8
+http://74.119.193.113:8280/live/mgyl4k/hls.m3u8
 #EXTINF:-1 tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="世界杯回放",抖音世界杯随机回放
 http://mmmitv.top/test/douyin-x.php?id=rand
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="世界杯回放",咪咕世界杯4K回放-1
