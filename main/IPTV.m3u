@@ -141,8 +141,6 @@ http://109.166.38.23:8280/live/cctv16/hls.m3u8
 http://109.166.38.23:8280/live/migu4k/hls.m3u8
 #EXTINF:-1 tvg-name="芒果娱乐4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="4K推流测试",芒果娱乐4K
 http://109.166.38.23:8280/live/mgyl4k/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV4K-50P-HLG谷豆源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K推流测试",CCTV4K-50P-HLG谷豆源
-http://74.119.193.113:8280/live/cctv4k/hls.m3u8
 #EXTINF:-1 tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="世界杯回放",抖音世界杯随机回放
 http://mmmitv.top/test/douyin-x.php?id=rand
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="世界杯回放",咪咕世界杯4K回放-1
