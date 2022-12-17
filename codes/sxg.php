@@ -13,5 +13,5 @@
         $current.= $stream.rtrim(chunk_split($timestamp, 3, "/"), "/").".ts"."\r\n";
         $timestamp = $timestamp + 1;
     }
-    header("Content-Type: text/plain");
+    header("Content-Disposition: attachment; filename=playlist.m3u8");
     echo $current;
