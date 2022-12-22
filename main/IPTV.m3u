@@ -79,7 +79,7 @@ http://193.107.202.221:81/live/Kirk123/Kirk123/1552953.ts
 http://cineapp.org:8000/zbigniew/zbigniew/166355
 #EXTINF:-1 tvg-name="CANAL+ LDC UHD" tvg-logo="https://media.info/i/lf/600/1503863982/6844.png" group-title="4K频道",CANAL+ LDC UHD
 http://cineapp.org:8000/zbigniew/zbigniew/166356
-#EXTINF:-1 tvg-name="Evenement UHD" tvg-logo="" group-title="4K频道",Evenement UHD
+#EXTINF:-1 tvg-name="Evenement UHD" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/evenement.png" group-title="4K频道",Evenement UHD
 http://cineapp.org:8000/zbigniew/zbigniew/166357
 #EXTINF:-1 tvg-name="BOX OFFICE CANAL+ UHD" tvg-logo="https://media.info/i/lf/600/1503863982/6844.png" group-title="4K频道",BOX OFFICE CANAL+ UHD
 http://cineapp.org:8000/zbigniew/zbigniew/166359
