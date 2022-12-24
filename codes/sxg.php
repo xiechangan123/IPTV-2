@@ -1,7 +1,7 @@
 <?php
-    $channel = empty($_GET['id']) ? "CCTV-xw_4000" : trim($_GET['id']);
+    $channel = empty($_GET['id']) ? "emdy4k_8000" : trim($_GET['id']);
     $array = explode("_", $channel);
-    $stream = "http://58.220.67.45/vod.rxip.sc96655.com/live/8ne5i_sccn/{$array[0]}_hls_pull/8ne5i_sccn,{$array[0]}_hls_pull_{$array[1]}K/";
+    $stream = "http://livehkkp.chinamcache.com/live/8ne5i_sccn/{$array[0]}_hls_pull/8ne5i_sccn,{$array[0]}_hls_pull_{$array[1]}K/";
     $timestamp = intval((time()-60)/6);
     $current = "#EXTM3U"."\r\n";
     $current.= "#EXT-X-VERSION:3"."\r\n";
